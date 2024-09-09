@@ -33,7 +33,7 @@ This will launch the dApp in your default web browser at http://localhost:3000.
 
 **Smart Contract**
 
-The smart contract for the voting simulation is deployed on the sepliaContrat network. The contract allows for:
+The smart contract for the voting simulation is deployed on the seplia testnet network. The contract allows for:
 
 Adding candidates
 Adding the nftcontract
