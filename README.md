@@ -1,6 +1,6 @@
 # Voting dApp
 
-This decentralized application (dApp) is designed to simulate voting for candidates using a smart contract on the Sepolia Testnet(to test in other networks deploy the contracts to another chains) Users can participate in the voting process, the contract will verify if the user is eligible by checking his wallet holdings to see if he possess the required NFT to participate in the vote.
+This decentralized application (dApp) is designed to simulate a voting process for candidates using a smart contract on the Sepolia Testnet(to test in other networks deploy the contracts to another chains) Users can participate in the voting process, the contract will verify if the user is eligible by checking his wallet holdings to see if he possess the required NFT to participate in the vote.
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
